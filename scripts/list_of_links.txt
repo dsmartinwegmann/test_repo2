@@ -9,6 +9,9 @@ https://github.com/open-phytoliths/FAIR-phytoliths
 
 
 ## License:
+
+This is where I want to show my license
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
